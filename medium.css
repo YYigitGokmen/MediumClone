@@ -1,0 +1,40 @@
+.bg-yellow {
+
+    background-color: #FFC017;
+}
+
+.border-bottom-dark {
+
+    border-bottom: 2px solid #414141;
+}
+
+
+body {
+    font-family: "PT Serif", serif;
+}
+
+.aside-buttons > li       {
+margin-bottom: 10px;
+
+
+}
+
+
+.border-top-dark  {
+
+border-top: 1px solid  rgba(230, 230, 230, 1);
+
+}
+
+
+
+
+.dugme {
+    color: #242424;
+    border-radius: 100px;
+    background-color: #F2F2F2;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 1px solid #F2F2F2;
+    font-weight: 400;
+
+}
